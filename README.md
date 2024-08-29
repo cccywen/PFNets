@@ -1,6 +1,6 @@
 
 # [PFSegNets](https://github.com/lxtGH/PFSegNets) executable version modified for my environment.
-This repo contains the the implementation of Our CVPR-2021 work: PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation
+This repo contains the the implementation of CVPR-2021 work: PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation
 
 
 The master branch works with PyTorch 1.5 and python 3.7.6.
